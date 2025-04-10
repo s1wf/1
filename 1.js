@@ -1,1 +1,1 @@
-document.cookie
+document.write(document.cookie)
